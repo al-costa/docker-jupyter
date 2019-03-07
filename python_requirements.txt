@@ -1,0 +1,10 @@
+numpy
+scipy
+Pillow
+scikit-image
+scikit-learn
+pandas
+matplotlib
+jupyter
+tornado==4.5.3
+
